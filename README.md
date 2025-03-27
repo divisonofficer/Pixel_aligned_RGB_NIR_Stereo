@@ -52,6 +52,21 @@ We release a large-scale dataset for training and evaluating robot vision models
 
 
 ➡️ **[Download Dataset on HuggingFace](https://huggingface.co/datasets/your-dataset-url)**
+Each .tar.gz file follows below structure
+```
+frame1
+--rgb
+-----left_distorted.png (or left.png)
+-----right_distorted.png (or right.png)
+--nir
+-----left_distorted.png (or left.png)
+-----right_distorted.png (or right.png)
+storage.hdf5
+```
+The frame ids are named after their creation date.
+**_distorted.png** image need to be undistorted. **left.png** and **right.png** are undistorted version.
+
+**storage.hdf5** is H5 database. it contains **frame** group with children of each frame ids.
 
 ---
 
