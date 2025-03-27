@@ -1,0 +1,7 @@
+h5py
+numpy
+PIL
+scipy
+matplotlib
+ipywidgets
+iPython
