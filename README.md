@@ -51,7 +51,7 @@ We release a large-scale dataset for training and evaluating robot vision models
 <img width="920" alt="image" src="https://github.com/user-attachments/assets/a07bea4e-5674-4277-a585-f556ce9d4825" />
 
 
-➡️ **[Download Dataset on HuggingFace](https://huggingface.co/datasets/your-dataset-url)**
+➡️ **[Download Dataset on HuggingFace](https://huggingface.co/datasets/DivisonOfficer/Pixel-aligned_RGB-NIR_stereo_dataset)**
 Each .tar.gz file follows below structure
 ```
 frame1
