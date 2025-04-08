@@ -15,7 +15,7 @@ This repository provides the code and dataset accompanying our CVPR 2025 paper:
 
 We propose a novel robotic vision system equipped with **two pixel-aligned RGB-NIR stereo cameras** and a **LiDAR sensor** mounted on a mobile robot. Our system captures **RGB-NIR stereo video sequences** and **temporally synchronized LiDAR point clouds**, offering a high-quality, aligned multi-spectral dataset under diverse lighting conditions.
 
-![System Overview](https://divisonofficer.github.io/project_page_cvpr2025_5308/fig_imaging_1.png)
+![System Overview](https://divisonofficer.github.io/project_page_Pixel_aligned_RGB_NIR_Stereo/fig_imaging_1.png)
 
 ---
 
@@ -80,7 +80,7 @@ Our robotic platform integrates:
 - **High-capacity battery** (up to 6 hours)
 - **NIR LED bar light source** for consistent active illumination
 
-![Robot Platform](https://divisonofficer.github.io/project_page_cvpr2025_5308/fig_imaging_1.png)
+![Robot Platform](https://divisonofficer.github.io/project_page_Pixel_aligned_RGB_NIR_Stereo/fig_imaging_1.png)
 
 ---
 
